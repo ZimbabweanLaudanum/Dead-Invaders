@@ -1,0 +1,15 @@
+D:\Space Invaders\bin\Release\Space Invaders.exe.config
+D:\Space Invaders\bin\Release\Space Invaders.exe
+D:\Space Invaders\bin\Release\Space Invaders.pdb
+D:\Space Invaders\obj\Release\Space Invaders.csproj.AssemblyReference.cache
+D:\Space Invaders\obj\Release\MainWindow.g.cs
+D:\Space Invaders\obj\Release\App.g.cs
+D:\Space Invaders\obj\Release\Space Invaders_MarkupCompile.cache
+D:\Space Invaders\obj\Release\Space Invaders_MarkupCompile.lref
+D:\Space Invaders\obj\Release\MainWindow.baml
+D:\Space Invaders\obj\Release\Space Invaders.g.resources
+D:\Space Invaders\obj\Release\Space_Invaders.Properties.Resources.resources
+D:\Space Invaders\obj\Release\Space Invaders.csproj.GenerateResource.cache
+D:\Space Invaders\obj\Release\Space Invaders.csproj.CoreCompileInputs.cache
+D:\Space Invaders\obj\Release\Space Invaders.exe
+D:\Space Invaders\obj\Release\Space Invaders.pdb
